@@ -1,0 +1,769 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"toa",
+				"totalStringVal"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"Name",
+				"NameCalculator"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"total",
+				"total_price"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"cart",
+				"cart_id"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"asser",
+				"assert_redirected_to"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"assert",
+				"assert_select_jquery"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"small",
+				"smaller"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"margni",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-decoration-break"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"textdec",
+				"text-decoration"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"revie",
+				"reviwer_id"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"upda",
+				"update"
+			],
+			[
+				"user",
+				"user_order"
+			],
+			[
+				"lis",
+				"list_order"
+			],
+			[
+				"users",
+				"users_byname"
+			],
+			[
+				"list_",
+				"list_byname"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"each",
+				"each_pair"
+			],
+			[
+				"n",
+				"new"
+			],
+			[
+				"do",
+				"dob\tInsert do |variable| … end"
+			],
+			[
+				"home",
+				"homeHtml"
+			],
+			[
+				"isert",
+				"insertSrc"
+			],
+			[
+				"rand",
+				"randomWebsite"
+			],
+			[
+				"cate",
+				"categoryNames"
+			],
+			[
+				"prop",
+				"propToReplace"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"short",
+				"short_name"
+			],
+			[
+				"chose",
+				"chosenCategoryShortName"
+			],
+			[
+				"homeHtm",
+				"homeHtmlToInsertIntoMainPage"
+			],
+			[
+				"main",
+				"main-content"
+			],
+			[
+				"chosen",
+				"chosenCategoryShortName"
+			],
+			[
+				"random",
+				"randomCategoryShortName"
+			],
+			[
+				"choose",
+				"chooseRandomCategory"
+			],
+			[
+				"inser",
+				"insertSrc"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"menu",
+				"menuCategory"
+			],
+			[
+				"men",
+				"menuCategory"
+			],
+			[
+				"menuTitle",
+				"menuTitle"
+			],
+			[
+				"rep",
+				"responseText"
+			],
+			[
+				"respo",
+				"responseHandler"
+			],
+			[
+				"requ",
+				"requestUrl"
+			],
+			[
+				"is",
+				"isJsonResponse"
+			],
+			[
+				"get",
+				"getRequestObject"
+			],
+			[
+				"colxs",
+				"col-xxs-12"
+			],
+			[
+				"colx",
+				"col-xxs-12"
+			],
+			[
+				"col-x",
+				"col-xxs-12"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"col-m",
+				"col-sm-4"
+			],
+			[
+				"col-",
+				"col-sm-4"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"boxs",
+				"box-shadow"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"gl",
+				"glyphicon-bishop"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fonthe",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"collapsed",
+				"collapsed-navbar"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"h",
+				"http-equiv\tAttr"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bott",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "NameCalculator/index.html",
+			"settings":
+			{
+				"buffer_size": 513,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "NameCalculator/app2.js",
+			"settings":
+			{
+				"buffer_size": 551,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "Install",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 648.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"Install Package",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump",
+		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/NameCalculator"
+	],
+	"file_history":
+	[
+		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/FirstEver/app.js",
+		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/FirstEver/index.html",
+		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/index.html",
+		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/app.js",
+		"/C/Users/Taşaki Kaşura/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-js-completions.sublime-settings",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/app/views/orders/_form.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/app/assets/stylesheets/store.scss",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/app/views/orders/show.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/test/fixtures/line_items.yml",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/test/fixtures/orders.yml",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/app/helpers/application_helper.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/test/controllers/line_items_controller_test.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/app/assets/javascripts/application.js",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/Gemfile",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/app/assets/stylesheets/application.css.scss",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/app/assets/stylesheets/carts.scss",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/app/views/layouts/application.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/app/views/store/index.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/depot/app/models/cart.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/config/routes.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/db/migrate/20170322180326_create_reviewers.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/db/migrate/20170322180416_create_notes.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/db/schema.rb",
+		"/C/Users/Taşaki Kaşura/Desktop/RubyCourse 3/fullstack-course3-module1-master/fullstack-course3-module1-master/Assignments/Lesson01-MongoDB-Connection/student-start/assignment.rb",
+		"/C/Sites/todo/db/seeds.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/app/views/reviewers/_form.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/app/views/notes/_notez.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/db/seeds.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/config/environments/production.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/Gemfile",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/app/views/books/new.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/app/views/books/_form.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/app/controllers/application_controller.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/app/models/reviewer.rb",
+		"/C/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x86-mingw32/lib/bcrypt.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/app/assets/stylesheets/application.css",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/app/views/layouts/application.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/app/models/book.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/booker/app/models/note.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/cars_app/app/controllers/cars_controller.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/cars_app/app/views/cars/_form.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/cars_app/app/models/car.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/cars_app/config/routes.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/app/views/courses/find.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/todolists/assignment/assignment.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/todolists/app/models/todolist.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/todolists/db/migrate/20170316103207_create_profiles.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/cars_app/db/migrate/20170315090725_add_price_to_cars.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/todolists/db/migrate/20170316102111_create_users.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/cars_app/db/migrate/20170315074458_create_cars.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/todolists/app/models/user.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/todolists/spec/assignment_spec.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/todolists/.rspec",
+		"/C/Users/Taşaki Kaşura/Ruby/todolists/Gemfile",
+		"/C/Users/Taşaki Kaşura/Ruby/cars_app/db/migrate/20170315090609_add_price_cars.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/cars_app/config/database.yml",
+		"/C/Users/Taşaki Kaşura/Ruby/cars_app/app/views/cars/new.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/cars_app/app/views/cars/index.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/app/helpers/say_helper.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/app/helpers/courses_helper.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/app/assets/stylesheets/courses.scss",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/Gemfile",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/config/environment.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/app/controllers/courses_controller.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/app/views/say/bye.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/app/controllers/say_controller.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/config/routes.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/app/views/layouts/application.html.erb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/app/controllers/application_controller.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/config/environments/development.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/config/application.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/config/puma.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/config/initializers/assets.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/first_app/app/views/say/hello.html.erb",
+		"/C/Users/Taşaki Kaşura/AppData/Local/Temp/Rar$DIa0.527/module2_assignment.rb",
+		"/C/Users/Taşaki Kaşura/Ruby/[#<Person",
+		"/C/Users/Taşaki Kaşura/overload77.github.io/course-final-site/snippets/category-snippet.html",
+		"/C/Users/Taşaki Kaşura/overload77.github.io/course-final-site/js/script.js",
+		"/C/Users/Taşaki Kaşura/overload77.github.io/course-final-site/snippets/menu-item.html",
+		"/C/Users/Taşaki Kaşura/research/dynamic-restaurant/snippets/menu-category.html",
+		"/C/Users/Taşaki Kaşura/research/dynamic-restaurant/snippets/home-snippet.html",
+		"/C/Users/Taşaki Kaşura/research/dynamic-restaurant/index.html",
+		"/C/Users/Taşaki Kaşura/overload77.github.io/course-final-site/index.html",
+		"/C/Users/Taşaki Kaşura/research/dynamic-restaurant/css/meow.css",
+		"/C/Users/Taşaki Kaşura/overload77.github.io/mod5_solution/js/script.js",
+		"/C/Users/Taşaki Kaşura/overload77.github.io/mod5_solution_final_site_of_course/js/script.js",
+		"/C/Users/Taşaki Kaşura/overload77.github.io/mod5_solution/snippets/home-snippet.html",
+		"/C/Users/Taşaki Kaşura/overload77.github.io/mod5_solution/index.html",
+		"/C/Users/Taşaki Kaşura/newbie/dynamic-restaurant/snippets/menu-category-title.html",
+		"/C/Users/Taşaki Kaşura/newbie/dynamic-restaurant/js/script.js",
+		"/C/Users/Taşaki Kaşura/newbie/dynamic-restaurant/snippets/home-snippet.html",
+		"/C/Users/Taşaki Kaşura/newbie/dynamic-restaurant/snippets/menu-category.html",
+		"/C/Users/Taşaki Kaşura/newbie/dynamic-restaurant/menu.html",
+		"/C/Users/Taşaki Kaşura/newbie/dynamic-restaurant/index.html",
+		"/C/Users/Taşaki Kaşura/overload77.github.io/fullstack-course4/assignments/assignment5/assignment5-solution-starter/js/script.js",
+		"/C/Users/Taşaki Kaşura/Downloads/ajaxSimplified.js",
+		"/C/Users/Taşaki Kaşura/newbie/overload77.github.io/mod3_solution/index.html",
+		"/C/Users/Taşaki Kaşura/newbie/StatikRestaurant/js/ajax-utils.js",
+		"/C/Users/Taşaki Kaşura/newbie/StatikRestaurant/css/meow.css",
+		"/C/Users/Taşaki Kaşura/newbie/StatikRestaurant/menu.html",
+		"/C/Users/Taşaki Kaşura/newbie/StatikRestaurant/index.html",
+		"/C/Users/Taşaki Kaşura/newbie/StatikRestaurant/snippets/home-snippet.html",
+		"/C/Users/Taşaki Kaşura/Desktop/assignment 4/fullstack-course4/assignments/assignment4/assignment4-solution-starter/easier/SpeakGoodBye.js",
+		"/C/Users/Taşaki Kaşura/Desktop/assignment 4/fullstack-course4/assignments/assignment4/assignment4-solution-starter/easier/SpeakHello.js",
+		"/C/Users/Taşaki Kaşura/Desktop/assignment 4/fullstack-course4/assignments/assignment4/assignment4-solution-starter/easier/script.js",
+		"/C/Users/Taşaki Kaşura/newbie/StatikRestaurant/js/script.js",
+		"/C/Users/Taşaki Kaşura/newbie/mod3_solution/index.html",
+		"/C/Users/Taşaki Kaşura/newbie/mod3_solution/css/style.css",
+		"/C/Users/Taşaki Kaşura/newbie/mod2_solution/index.html",
+		"/C/Users/Taşaki Kaşura/newbie/site/css/dStyle.css",
+		"/C/Users/Taşaki Kaşura/newbie/site/index.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"li",
+			"logged",
+			"password",
+			":review",
+			"box",
+			";\n",
+			"widt",
+			"section",
+			"ajaxUtils",
+			"heigh",
+			"\">*</"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Taşaki Kaşura\\angular-js\\angularjs-dump"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "NameCalculator/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "NameCalculator/app2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Taşaki Kaşura\\Ruby\\booker\\app\\views\\books\\index.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

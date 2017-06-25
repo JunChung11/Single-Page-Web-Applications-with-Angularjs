@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+	<meta charset="utf-8">
+	<script src="angular.min.js"></script>
+	<script src="app.js"></script>
+	<title>My Angular Study</title>
+</head>
+<body>
+	<h1>TITLE HEHE</h1>
+	<div ng-controller="myController">
+		<input type="text" ng-model="name">
+		Inside my input-->{{name}} <br>
+		And this is function bounded to this div: {{saySomethin()}}
+	</div>
+</body>
+</html>
