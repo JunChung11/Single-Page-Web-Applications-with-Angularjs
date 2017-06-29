@@ -387,7 +387,8 @@
 			"file": "assgn_2/index.html",
 			"settings":
 			{
-				"buffer_size": 1566,
+				"buffer_size": 1692,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -613,7 +614,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -622,15 +623,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1566,
+						"buffer_size": 1692,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1492,
+								1492
 							]
 						],
 						"settings":
@@ -640,10 +641,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 756.0,
+						"translation.y": 784.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -672,7 +673,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
