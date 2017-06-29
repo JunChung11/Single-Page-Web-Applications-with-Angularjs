@@ -384,19 +384,18 @@
 	"buffers":
 	[
 		{
-			"file": "NameCalculator/index.html",
+			"file": "assgn_2/index.html",
 			"settings":
 			{
-				"buffer_size": 513,
-				"encoding": "UTF-8",
+				"buffer_size": 1566,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "NameCalculator/app2.js",
+			"file": "assgn_2/hehexd.js",
 			"settings":
 			{
-				"buffer_size": 551,
+				"buffer_size": 1425,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -445,10 +444,12 @@
 	"expanded_folders":
 	[
 		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump",
-		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/NameCalculator"
+		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/assgn_2"
 	],
 	"file_history":
 	[
+		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/NameCalculator/index.html",
+		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/NameCalculator/app2.js",
 		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/FirstEver/app.js",
 		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/FirstEver/index.html",
 		"/C/Users/Taşaki Kaşura/angular-js/angularjs-dump/index.html",
@@ -612,53 +613,54 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "NameCalculator/index.html",
+					"file": "assgn_2/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 513,
+						"buffer_size": 1566,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								370,
-								370
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 168.0,
+						"translation.y": 756.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "NameCalculator/app2.js",
+					"file": "assgn_2/hehexd.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 551,
+						"buffer_size": 1425,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								156,
-								156
+								657,
+								657
 							]
 						],
 						"settings":
@@ -667,10 +669,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 84.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

@@ -13,10 +13,9 @@
 		ctrl.temp = ShoppingListCheckOffService.bought;
 		ctrl.buyClick = function(item) {
 			var idx = ctrl.items.indexOf(item);
-			ShoppingListCheckOffService.toBuy.splice(idx,1);
-			ShoppingListCheckOffService.bought.push(item);
-			console.log(ctrl.items);
-			console.log(ctrl.temp);
+			ShoppingListCheckOffService.removeNpush(idx, item);
+			console.log(ctrl.items); //Just to demonstrate
+			console.log(ctrl.temp);	 //Just to demonstrate
 		};
 	}
 
@@ -28,21 +27,28 @@
 
 	function shopService(){
 		var service = this;
-		service.toBuy = [{name: "Cookiesxd",
-						quantity: 10},
-						{name: "Apples",
-						quantity: 3},
-						{name: "Oreos",
-						quantity: 7},
-						{name: "Snickers",
-						quantity: 2},
-						{name: "Peanut Butters",
-						quantity: 5}, ];
+		service.toBuy = [
+						{name: "Cookies xd",
+						  quantity: 10
+						},
+						{ name: "Apples",
+						  quantity: 3
+						},
+						{ name: "Oreos",
+						  quantity: 7
+						},
+						{ name: "Snickers",
+						  quantity: 2
+						},
+						{ name: "Peanut Butters",
+						  quantity: 5
+						}, ];
 
 		service.bought = [];
 
-		service.remove = function(){
-
-		}
+		service.removeNpush = function(idx, itemToAdd){
+			service.toBuy.splice(idx,1);
+			service.bought.push(itemToAdd);
+		};
 	}
 })();
