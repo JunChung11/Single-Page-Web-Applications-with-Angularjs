@@ -4,5 +4,5 @@
 		<button ng-click="remove({myIndex: '{{$index}}'});">Delete This One!</button>
 	</li>
 </div>
-<div ng-if="founded.length < 1">NOTHING IS FOUND</div>
+<div ng-if="founded != 'undefined' && founded.length < 1">NOTHING IS FOUND</div>
 

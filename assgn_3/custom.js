@@ -6,15 +6,21 @@
 	.service('MenuSearchService', MenuSearchService)
 	.directive('foundItems', FoundItems);
 
-	NarrowItDownController.$inject = ['MenuSearchService'];
-	function NarrowItDownController(MenuSearchService){
+	NarrowItDownController.$inject = ['MenuSearchService', '$timeout'];
+	function NarrowItDownController(MenuSearchService, $timeout){
 		var ctrl = this;
 		
 
 		ctrl.narrow = function(){
 			console.log("Founded" + ctrl.found);
-			ctrl.found = MenuSearchService.getMatchedMenuItems(ctrl.search);
+			var found = MenuSearchService.getMatchedMenuItems(ctrl.search);
 			console.log("Founded" + ctrl.found);
+
+			$timeout(function(){
+				console.log("Founded" + found.length);
+				console.log(ctrl.found);
+				ctrl.found = found;
+			}, 666);
 		};
 
 		ctrl.remove = function(idx){
@@ -37,7 +43,7 @@
 				
 				var allItems = result.data.menu_items;
 				for (var i = 0; i < allItems.length; i++) {
-					console.log(allItems[i]);
+					//console.log(allItems[i]);
 					
 					var itemDesc = allItems[i].description.toLowerCase();
 					if(itemDesc.indexOf(searchStr.toLowerCase()) != -1){
@@ -63,4 +69,6 @@
 
 		return ddo;
 	}
+
+
 })();
