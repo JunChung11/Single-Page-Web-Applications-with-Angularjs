@@ -15,7 +15,9 @@
 			console.log("Founded" + ctrl.found);
 			var found = MenuSearchService.getMatchedMenuItems(ctrl.search);
 			console.log("Founded" + ctrl.found);
-
+			if (ctrl.search === "") {
+				found = [];
+			}
 			$timeout(function(){
 				console.log("Founded" + found.length);
 				console.log(ctrl.found);
