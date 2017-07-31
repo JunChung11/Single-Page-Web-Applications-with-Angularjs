@@ -26,6 +26,7 @@
 		};
 
 		ctrl.remove = function(idx){
+			console.log("Index is:", idx);
 			ctrl.found.splice(idx, 1);
 		};
 	}
