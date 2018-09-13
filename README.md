@@ -1,2 +1,2 @@
 # angularjs-dump
-Assignments for Angularjs course
+Assignments for Angularjs
